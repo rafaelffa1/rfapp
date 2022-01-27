@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RifaTudo.iml" filepath="$PROJECT_DIR$/.idea/modules/RifaTudo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RifaTudo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RifaTudo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1378156321/RifaTudo.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1378156321/RifaTudo.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2108393041/RifaTudo.react-native-camera.iml" filepath="$PROJECT_DIR$/.idea/modules/2108393041/RifaTudo.react-native-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-838312291/RifaTudo.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-838312291/RifaTudo.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1825611203/RifaTudo.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1825611203/RifaTudo.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1506297140/RifaTudo.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-1506297140/RifaTudo.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/33418458/RifaTudo.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/33418458/RifaTudo.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-765375380/RifaTudo.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-765375380/RifaTudo.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/653369580/RifaTudo.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/653369580/RifaTudo.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2087674267/RifaTudo.react-native-pager-view.iml" filepath="$PROJECT_DIR$/.idea/modules/2087674267/RifaTudo.react-native-pager-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1884677923/RifaTudo.react-native-restart.iml" filepath="$PROJECT_DIR$/.idea/modules/1884677923/RifaTudo.react-native-restart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1593231677/RifaTudo.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1593231677/RifaTudo.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1833787749/RifaTudo.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1833787749/RifaTudo.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1573626760/RifaTudo.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-1573626760/RifaTudo.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/859892028/RifaTudo.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/859892028/RifaTudo.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>

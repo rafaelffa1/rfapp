@@ -1,0 +1,6 @@
+module Pods_RifaTudo_RifaTudoTests {
+  umbrella header "Pods-RifaTudo-RifaTudoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

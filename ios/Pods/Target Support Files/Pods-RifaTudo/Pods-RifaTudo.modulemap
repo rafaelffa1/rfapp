@@ -1,0 +1,6 @@
+module Pods_RifaTudo {
+  umbrella header "Pods-RifaTudo-umbrella.h"
+
+  export *
+  module * { export * }
+}
